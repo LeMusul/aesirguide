@@ -1,0 +1,2 @@
+# aesirguide
+Aesir Server Guide
